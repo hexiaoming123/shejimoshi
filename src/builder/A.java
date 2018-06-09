@@ -7,7 +7,7 @@ package builder;
 *@version 1.0
  */
 public class A {
-		A a_a = new A();
+		A a_ = new A();
 	public A(){
 		A _a = new A();
 		A A_B =new A();
