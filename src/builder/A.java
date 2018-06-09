@@ -2,7 +2,7 @@ package builder;
 /**
  * 
 *类描述：三种放法都会导致栈内存溢出 //栈溢出抛出StackOverflowError错误
-*@author: Administrator
+*@author: Admini
 *@date: 日期:2018年5月26日 时间:上午8:39:05
 *@version 1.0
  */
