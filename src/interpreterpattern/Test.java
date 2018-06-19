@@ -1,7 +1,7 @@
 package interpreterpattern;
 
 //测试程序，计算 (a*b)/(a-b+2)  
-
+/**解析器模式*/
 public class Test  
 
 {  

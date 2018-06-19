@@ -1,7 +1,7 @@
 package interpreterpattern;
 //https://blog.csdn.net/jingzi123456789/article/details/71515728
 
-//非终结符表达式角色  
+//https://www.jianshu.com/p/e2e40347efe3
 
 class Add extends Expression  
 
