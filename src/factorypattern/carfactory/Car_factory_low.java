@@ -1,5 +1,6 @@
 package factorypattern.carfactory;
-/**新建抽象工厂接口的普通车low工厂实现类*/
+
+/** 新建抽象工厂接口的普通车low工厂实现类 */
 public class Car_factory_low implements Icar_factory {
 
 	@Override
